@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-produces numbers with switched
+Produces numbers 1-3.
 
 ## How to test
 
-turn on switch
+Turn on switch correlated with number. See LED display and output. 
 
 ## External hardware
 
